@@ -1,4 +1,4 @@
-Resolved line after fixing conflict
+This is the resolved version of the conflict.
 This is 2nd line!
 This line is added on Github!
 This line will be visible on branch
