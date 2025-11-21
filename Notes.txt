@@ -1,4 +1,4 @@
-This line is from MASTER branch
+This line is from MASTER branch!/
 This is 2nd line!
 This line is added on Github!
 This line will be visible on branch
